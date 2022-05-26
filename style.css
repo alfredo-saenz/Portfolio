@@ -25,6 +25,22 @@ main {
     margin-top: 50vh;
 }
 
-.about-me {
+#about-me {
     text-align: center;
+    height: 50vh;
+}
+
+#projects {
+    text-align: center;
+    height: 50vh;
+}
+
+#contact-me{
+    text-align: center;
+    height: 50vh;
+}
+
+#resume {
+    text-align: center;
+    height: 50vh;
 }
