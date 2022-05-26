@@ -9,22 +9,22 @@ header {
     margin-top: 50vh;
 }
 
-
-ul {
-    font-family: 'Press Start 2P', cursive; ;
+nav ul {
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
 }
-
-li {
-    display: inline-block;
-    justify-content: center;
-
-}
-
-
 
 .home-container {
+    font-family: 'Press Start 2P', cursive;
 
-    display: flex;
-    justify-content: center;
+}
 
+main {
+    margin-top: 50vh;
+}
+
+.about-me {
+    text-align: center;
 }
