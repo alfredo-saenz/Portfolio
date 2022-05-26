@@ -1,0 +1,30 @@
+* {
+    background-color: black;
+    color: white;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Press Start 2P', cursive;
+}
+
+header {
+    margin-top: 50vh;
+}
+
+
+ul {
+    font-family: 'Press Start 2P', cursive; ;
+}
+
+li {
+    display: inline-block;
+    justify-content: center;
+
+}
+
+
+
+.home-container {
+
+    display: flex;
+    justify-content: center;
+
+}
