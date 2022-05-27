@@ -4,6 +4,9 @@
     font-family: 'Indie Flower', cursive;
     font-family: 'Press Start 2P', cursive;
 }
+a {
+    text-decoration: none;
+}
 
 header {
     margin-top: 50vh;
@@ -43,4 +46,52 @@ main {
 #resume {
     text-align: center;
     height: 50vh;
+}
+
+p {
+    margin-top: 10vh;
+    margin-right: 25vw;
+    margin-left: 25vw;
+    margin-bottom: 25vh;
+}
+
+.hide {
+    /* display: none; */
+}
+
+.modal-container {
+    /* display: none; */
+    /* Hidden by default */
+    position: fixed;
+    /* Stay in place */
+    z-index: 1;
+    /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%;
+    /* Full width */
+    height: 100%;
+    /* Full height */
+    overflow: auto;
+    /* Enable scroll if needed */
+    background-color: black;
+    /* Fallback color */
+
+}
+
+.modal-inner {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: black;
+    padding: 2em;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 40px;
+    animation: blinker 2s linear infinite;
+}
+@keyframes blinker {
+    60% {
+        opacity: 0;
+    }
 }
