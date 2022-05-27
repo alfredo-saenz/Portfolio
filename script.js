@@ -5,5 +5,5 @@ modal.addEventListener('click',init)
 
 function init() {
     console.log('click')
-    modalContainer.classList.add('hide')
+    modalContainer.style.display = "none"
 }
