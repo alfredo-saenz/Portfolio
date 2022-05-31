@@ -1,10 +1,10 @@
 ### User Stories
-As a user I would want to contact the developer so i can get more information on them.
-As a user I want to see the work the developer has done to see what the developer is capable of.
-As a user I would want to know more about the developer
-As a user i would want to access their linked in, git hub, and socials with a click of a button
-As a user I would like to see their resume to see the past work
-As a user I would like for the page to be organize in sections. Ex. The about me, projects, contact me, resume.
+- As a user I would want to contact the developer so i can get more information on them.
+- As a user I want to see the work the developer has done to see what the developer is capable of.
+- As a user I would want to know more about the developer
+- As a user i would want to access their linked in, git hub, and socials with a click of a button
+- As a user I would like to see their resume to see the past work
+- As a user I would like for the page to be organize in sections. Ex. The about me, projects, contact me, resume.
 
 ### Stretch Goals
 
