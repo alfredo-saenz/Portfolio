@@ -1,13 +1,13 @@
 // This is a function for a startup modal and when you click it hides!
 
-let modal = document.querySelector('.modal-btn')
-let modalContainer = document.querySelector('.hide')
+let modal = document.querySelector('.modal-btn');
+let modalContainer = document.querySelector('.hide');
 
-modal.addEventListener('click',init)
+modal.addEventListener('click', init);
 
 function init() {
-    console.log('click')
-    modalContainer.style.display = "none"
+	console.log('click');
+	modalContainer.style.display = 'none';
 }
 // let lastNameInput = document.getElementById('lname')
 // const nameInput = document.getElementById('fname')
@@ -22,12 +22,17 @@ function init() {
 // 		console.log(nameInput.value);
 // 	});
 
-
-
 let fNameEl = document.querySelector('#fname');
 let lNameEl = document.querySelector('#lname');
 let messageEl = document.querySelector('#subject');
 
 function send() {
-console.log(fNameEl.value, lNameEl.value, messageEl.value);
+	console.log(fNameEl.value, lNameEl.value, messageEl.value);
 }
+
+
+let hover = document.getElementById('resume-link')
+
+hover.addEventListener("mouseover", function(event) {
+	event.target.style.color = "pink"
+})
