@@ -1,9 +1,3 @@
-/Users/alfredosaenz/sei/projects/project1/images/170337606-45293cc3-ed96-4c81-b57b-64394184e53d.png
-/Users/alfredosaenz/sei/projects/project1/images/170337618-040a9a76-3507-4dad-87e4-b38a0e9570dd.png
-/Users/alfredosaenz/sei/projects/project1/images/170337672-03c58a81-398b-446e-9c55-d1fcf40edb1e.png
-/Users/alfredosaenz/sei/projects/project1/images/170337693-1c068448-8d12-4889-a28e-35977ef861b7.png
-/Users/alfredosaenz/sei/projects/project1/images/170337702-3a291ead-a5d0-40ff-a7d5-f21848be36f6.png
-/Users/alfredosaenz/sei/projects/project1/images/170337746-edfd70d0-eb3a-49c6-888d-95a040489af5.png
 
 ### User Stories 
 - As a user I would want to contact the developer so i can get more information on them.
